@@ -8,17 +8,17 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [валидный ключ определяется как невалидный] (https://github.com/volontare/Java1.1/issues/1)
+* [валидный ключ определяется как невалидный](https://github.com/volontare/Java1.1/issues/1)
 
-* [невалидный ключ определяется как валидный] (https://github.com/volontare/Java1.1/issues/2)
+* [невалидный ключ определяется как валидный](https://github.com/volontare/Java1.1/issues/2)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
-* [Инструкция по установке OpenJDK 11] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 
-* Руководство использования
+* [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 ## В качестве тестовых данных использовались следующие данные:
 
